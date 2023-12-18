@@ -15,7 +15,7 @@ Installing the required libraries:
 pip3 install -r requirements.txt
 
 # Dataset used 
-Mozilla's Common Voice(https://www.kaggle.com/datasets/mozillaorg/common-voice) large dataset is used here, and some preprocessing has been performed:
+[Mozilla's Common Voice](https://www.kaggle.com/datasets/mozillaorg/common-voice) large dataset is used here, and some preprocessing has been performed:
 
 Filtered out invalid samples.
 Filtered only the samples that are labeled in genre field.
@@ -61,6 +61,3 @@ Wait until you see "Please speak" prompt and start talking, it will stop recordi
 
 About
 Building a Deep learning model that predicts the gender of a speaker using TensorFlow 2
-
-
-
