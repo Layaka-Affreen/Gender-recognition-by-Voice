@@ -14,8 +14,8 @@ Installing the required libraries:
 
 pip3 install -r requirements.txt
 
-Dataset used kaggle datasets download -d mozillaorg/common-voice
-Mozilla's Common Voice large dataset is used here, and some preprocessing has been performed:
+# Dataset used 
+Mozilla's Common Voice(https://www.kaggle.com/datasets/mozillaorg/common-voice) large dataset is used here, and some preprocessing has been performed:
 
 Filtered out invalid samples.
 Filtered only the samples that are labeled in genre field.
